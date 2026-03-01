@@ -1,35 +1,42 @@
 # 👋 Hi, I’m Jil Ranipa
 
-🚀 **Senior Laravel Developer | Backend-First Engineer | System Builder**
+🚀 **Laravel Developer | Backend-First Engineer | System Builder**
 
-I build **scalable, automation-driven web applications** using Laravel — focused on clean architecture, performance, and real-world reliability.
-
----
-
-## ⚡ Quick Intro (Mobile / TL;DR)
-- 💼 Laravel Developer @ Moon Technolabs  
-- 🧠 4+ years building backend-heavy systems  
-- 🛠️ Laravel • PHP • MySQL • APIs • Automation  
-- 🤝 Open to Laravel & SaaS collaborations  
+I build **scalable, reliable, and automation-driven web applications** using Laravel — focused on clean architecture, performance, and real-world reliability..
 
 ---
 
-## 🧠 About Me
-- End-to-end ownership: idea → architecture → deployment
-- Strong in **APIs, real-time systems, and integrations**
-- Prefer maintainable code over shortcuts
-- Enjoy solving **hard backend problems**
+## 🧠 Who Am I?
+
+- 💼 Laravel Developer at **Moon Technolabs (Ahmedabad)**
+- 🧑‍💻 4+ years of hands-on experience in **full-stack web development**
+- 🏗️ Comfortable owning the **entire product lifecycle** — idea → architecture → deployment
+- 🔍 Strong focus on **system design, performance, and maintainability**
+- 🤝 Prefer clear communication, clean code, and practical solutions
 
 ---
 
-## 🔥 Currently Building
-- 🧩 Enterprise Laravel applications  
-- ⚡ Real-time features (chat, notifications, queues)  
-- 🔌 Third-party & enterprise integrations  
-- 🤖 AI-powered workflows using ChatGPT  
-- 🛠️ Automation to reduce manual operations  
+## 🔥 What I’m Currently Working On
+- Enterprise-grade Laravel applications  
+- Real-time systems (chat, notifications, background workers)
+- API-driven platforms & automation workflows
 
-_(This section updates as I build)_  
+---
+
+## 🌱 Currently Learning
+- Vue.js (for modern frontend workflows)
+- Python (automation & backend scripting)
+- Native PHP internals (to write better Laravel code)
+
+---
+
+## 💞️ Open to Collaborate On
+- Laravel SaaS products  
+- Backend-heavy applications  
+- API integrations & real-time features  
+- Tools that reduce human effort through automation  
+
+If it involves **Laravel + logic**, I’m interested.
 
 ---
 
@@ -54,12 +61,22 @@ _(This section updates as I build)_
 
 ---
 
-## 🧩 Things I’ve Built
-- 📠 **Modern e-Fax Platform** (email → fax automation using Pub/Sub)
-- 🔐 **SCIM Provisioning with Okta** (enterprise user lifecycle)
-- 🏢 **ERP Systems** (API-driven, mobile-ready)
-- 🤖 **AI Content Platforms** using ChatGPT
-- 📄 **PDF / Excel generation pipelines**
+## 🧩 Things I’ve Built / Solved
+
+- 📠 **Modern e-Fax Platform**  
+  Real-time email-to-fax automation using Google Pub/Sub
+
+- 🔐 **SCIM Provisioning with Okta**  
+  Automated user lifecycle management for enterprise systems
+
+- ⚡ **High-Performance ERP Systems**  
+  API-driven architecture with mobile app integrations
+
+- 🤖 **AI-Powered Tools**  
+  Content generation workflows using ChatGPT
+
+- 📄 **Document Processing Pipelines**  
+  PDF/Excel generation, fax validation, and remote file handling
 
 ---
 
@@ -70,18 +87,6 @@ _(This section updates as I build)_
 
 ---
 
-## 📊 GitHub Stats
-
-![Jil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jilranipa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jilranipa&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jilranipa&theme=tokyo-night)
-
----
-
 ## 📫 Let’s Connect
 - 📧 **Email:** jeelranipa10@gmail.com  
 - 💼 **LinkedIn:** http://linkedin.com/in/jil-ranipa-323581207  
@@ -89,11 +94,11 @@ _(This section updates as I build)_
 ---
 
 ## 😄 Pronouns
-- He / Him  
+- He / Him
 
 ## ⚡ Fun Fact
-I enjoy debugging production issues more than writing new features — that’s where real engineering shows up.
+I enjoy debugging production issues more than writing new features — because that’s where real engineering happens.
 
 ---
 
-⭐️ *Always building. Always learning. Always improving.*
+⭐️ *Always learning. Always building. Always improving.*
